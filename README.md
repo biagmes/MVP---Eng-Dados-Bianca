@@ -6,3 +6,6 @@ A análise permitiu identificar:
 •	Preço médio mais elevado em marcas slow fashion como Gucci
 •	Fast fashion com maior volume de produtos vendidos
 As perguntas de negócio foram todas respondidas de forma satisfatória com base nas métricas geradas.
+
+Link Databricks: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1169243894191518/1492368145881385/2606949402939469/latest.html
+
